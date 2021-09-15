@@ -695,7 +695,7 @@ class RecommenderModel:
 if __name__ == '__main__':
     start_time = time.time()
 
-    model = RecommenderModel()
+    model = RecommenderModel(isAmazon=False)
     model.run()
 
     print(f"Elapsed Time = {round((time.time() - start_time) / 3600, 2)} hours")
