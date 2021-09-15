@@ -1,5 +1,10 @@
 data/*
 xgboost/*
+*.json
+test.py
 
 !data/Amazon_Normalized_pers_scores.csv
 !data/amazon_reviews.csv
+!data/reviews.csv
+!data/Normalized_pers_scores.csv
+!data/polarity.csv
