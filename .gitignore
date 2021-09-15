@@ -1,0 +1,5 @@
+data/*
+xgboost/*
+
+!data/Amazon_Normalized_pers_scores.csv
+!data/amazon_reviews.csv
