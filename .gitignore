@@ -1,8 +1,7 @@
 data/*
 xgboost/*
 *.json
-test.py
-amazon_dataset.py
+*.py
 .idea
 
 !data/Amazon_Normalized_pers_scores.csv
