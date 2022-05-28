@@ -9,4 +9,5 @@ xgboost/*
 !data/reviews.csv
 !data/Normalized_pers_scores.csv
 !data/polarity.csv
+!data/amazon_polarity.csv
 
